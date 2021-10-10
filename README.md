@@ -1,0 +1,1 @@
+# algot-strukturdata
